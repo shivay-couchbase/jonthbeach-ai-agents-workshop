@@ -1,9 +1,9 @@
 {
     "type": "fulltext-index",
-    "name": "vector_search_crew",
+    "name": "vector_search_crew_new",
     "uuid": "12fe1360b64a69c0",
     "sourceType": "gocbcore",
-    "sourceName": "crewai",
+    "sourceName": "crewaiworkshop",
     "sourceUUID": "ee9841e7b3a580d76862bb00927affc4",
     "planParams": {
       "maxPartitionsPerPIndex": 64,
@@ -40,7 +40,7 @@
                 "enabled": true,
                 "fields": [
                   {
-                    "dims": 1536,
+                    "dims": 4096,
                     "index": true,
                     "name": "embedding",
                     "similarity": "dot_product",
