@@ -20,7 +20,8 @@ By the end of this workshop, you will:
 
 Before starting, ensure you have the following:
 - **Python 3.8+** installed on your system.
-- A **Couchbase Capella** account with a free-tier operational cluster set up. [Sign up here](https://cloud.couchbase.com/sign-up).
+- A **Couchbase Capella** account with a free-tier operational cluster set up. [Sign up here](https://cloud.couchbase.com/sign-up?utm_medium=community&utm_source=jonthebeach ).
+- Sign up for Nebius AI Studio (https://studio.nebius.com/)  and use the following coupon code:  {to be shared during the workshop} to $25 dollars and use various open source AI models
 - Basic knowledge of Python programming and AI concepts.
 - Installed libraries: `datasets`, `langchain-couchbase`, `langchain-openai`, `crewai`, `python-dotenv`.
 
