@@ -1,6 +1,5 @@
 # couchbase-crewai-workshop
 
-openai Key = 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
 
 ```
 OPEN_API_KEY = os.getenv('OPENAI_API_KEY') or input("Enter your OpenAI API key: ")
