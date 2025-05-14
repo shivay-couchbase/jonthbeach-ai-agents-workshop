@@ -1,5 +1,7 @@
 # couchbase-crewai-workshop
 
+openai Key = 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
+
 # Workshop: Semantic AI Agents for Real-World Applications
 
 In this session, we will explore how to build a powerful semantic search engine using **Couchbase** as the backend database and **CrewAI** for agent-based Retrieval-Augmented Generation (RAG) operations. This workshop is designed to provide hands-on experience with creating AI agents that collaborate to retrieve, analyze, and generate meaningful responses to user queries.
